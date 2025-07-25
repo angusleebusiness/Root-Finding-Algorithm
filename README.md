@@ -3,7 +3,7 @@ one of my earliest python projects, finally uploaded to github.
 
 ## Newton's Method
 
-the first root finding algorithm I ever encountered, this solver asks the user for a function f(x), how many decimals of precision, an initial guess, and the maximum iterations the program should do; it then recursively iterates through the Newton's method formula:
+the first root finding algorithm I ever encountered, this solver asks the user for a function $$f(x)$$, how many decimals of precision, an initial guess, and the maximum iterations the program should do; it then recursively iterates through the Newton's method formula:
 
 $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$$
 
