@@ -1,7 +1,7 @@
 # Root-Finding Algorithm
 one of my earliest python projects, finally uploaded to github.
 
-## Newton's Method
+## [Newton's Method]([https://pages.github.com/](https://github.com/angusleebusiness/Root-Finding-Algorithm/blob/main/Newton's%20Method%20Solver.py))
 
 the first root finding algorithm I ever encountered, this solver asks the user for a function, $$f(x)$$, how many decimals of precision, an initial guess, and the maximum iterations the program should do; it then recursively iterates through the Newton's method formula:
 
