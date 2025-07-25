@@ -1,4 +1,4 @@
-# Root-Finding-Algorithm
+# Root-Finding Algorithm
 one of my earliest python projects, finally uploaded to github.
 
 ## Newton's Method
